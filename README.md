@@ -2,6 +2,7 @@
   README for github.com/aritrade — the GitHub profile landing page.
   Photo:    assets/avatar.png  (swap in a real LinkedIn export anytime)
   Avatar:   regenerable via `python3 assets/generate_avatar.py`
+  Repo:     aritrade/aritrade (special profile-README repo)
 -->
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
