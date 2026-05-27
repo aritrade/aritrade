@@ -19,7 +19,7 @@ Pick **one** of these — both work, no README edit required:
    [Settings → Profile](https://github.com/settings/profile). It will appear
    on this README, on every commit, on every PR, and across the GitHub UI.
    Then optionally delete `assets/avatar.png` and point the README `<img>`
-   at `https://github.com/productdecoded.png` instead.
+   at `https://github.com/aritrade.png` instead.
 
 ### Regenerate the monogram
 

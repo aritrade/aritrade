@@ -1,5 +1,5 @@
 <!--
-  README for github.com/productdecoded — the GitHub profile landing page.
+  README for github.com/aritrade — the GitHub profile landing page.
   Photo:    assets/avatar.png  (swap in a real LinkedIn export anytime)
   Avatar:   regenerable via `python3 assets/generate_avatar.py`
 -->
@@ -55,7 +55,7 @@ My edge is the rare combination of **deep technical fluency** (VCIX-DCV, VCAP-DC
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
-      <h3>🩺 &nbsp;<a href="https://github.com/productdecoded/intimacy-and-sex-therapy-library">intimacy-and-sex-therapy-library</a></h3>
+      <h3>🩺 &nbsp;<a href="https://github.com/aritrade/intimacy-and-sex-therapy-library">intimacy-and-sex-therapy-library</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -67,13 +67,13 @@ My edge is the rare combination of **deep technical fluency** (VCIX-DCV, VCAP-DC
         A clinician-reviewed, evidence-grounded learning platform with an <strong>autonomous short-form video engine</strong> publishing daily to Instagram, YouTube, and Facebook — <strong>DPDP + GDPR baked in</strong>. RAG with hybrid BM25 + pgvector, Remotion + Edge TTS render pipeline, fully Mac-free operation via GH Actions.
       </p>
       <p>
-        <a href="https://github.com/productdecoded/intimacy-and-sex-therapy-library"><img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/aritrade/intimacy-and-sex-therapy-library"><img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
         &nbsp;
         <a href="https://intimacy-and-sex-therapy-library.vercel.app"><img src="https://img.shields.io/badge/Live_site-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>🤖 &nbsp;<a href="https://github.com/productdecoded/ai-survival-score">ai-survival-score</a></h3>
+      <h3>🤖 &nbsp;<a href="https://github.com/aritrade/ai-survival-score">ai-survival-score</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Antigravity_2.0-09090B?style=flat-square&logo=googlegemini&logoColor=10B981" />
         <img src="https://img.shields.io/badge/Gemini_3.5_Flash-F59E0B?style=flat-square&logo=googlegemini&logoColor=white" />
@@ -84,15 +84,15 @@ My edge is the rare combination of **deep technical fluency** (VCIX-DCV, VCAP-DC
         An <strong>agentic AI career displacement analyzer</strong> built with Antigravity 2.0 + Gemini 3.5 Flash. Three parallel agents — <em>Profile DNA, Risk Modeling, Upskilling</em> — collapse the build loop <strong>~12×</strong>. 100% local-first inference, no backend, drop-in LinkedIn PDF.
       </p>
       <p>
-        <a href="https://github.com/productdecoded/ai-survival-score"><img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/aritrade/ai-survival-score"><img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
         &nbsp;
-        <a href="https://productdecoded.github.io/ai-survival-score/"><img src="https://img.shields.io/badge/Live_demo-Online-10B981?style=for-the-badge" /></a>
+        <a href="https://aritrade.github.io/ai-survival-score/"><img src="https://img.shields.io/badge/Live_demo-Online-10B981?style=for-the-badge" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>📝 &nbsp;<a href="https://github.com/productdecoded/notepad-plus-mac">notepad-plus-mac</a></h3>
+      <h3>📝 &nbsp;<a href="https://github.com/aritrade/notepad-plus-mac">notepad-plus-mac</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
         <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
@@ -103,13 +103,13 @@ My edge is the rare combination of **deep technical fluency** (VCIX-DCV, VCAP-DC
         <strong>NotepadNext</strong> — a full-featured Notepad++ for macOS built on Electron + Monaco. <strong>50+ language syntax</strong>, multi-cursor, macros, split view, signed <code>.dmg</code> releases. The native Mac editor Notepad++ users always wanted.
       </p>
       <p>
-        <a href="https://github.com/productdecoded/notepad-plus-mac"><img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/aritrade/notepad-plus-mac"><img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
         &nbsp;
-        <a href="https://github.com/productdecoded/notepad-plus-mac/releases"><img src="https://img.shields.io/badge/Download_.dmg-Releases-10B981?style=for-the-badge&logo=apple&logoColor=white" /></a>
+        <a href="https://github.com/aritrade/notepad-plus-mac/releases"><img src="https://img.shields.io/badge/Download_.dmg-Releases-10B981?style=for-the-badge&logo=apple&logoColor=white" /></a>
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>⚡ &nbsp;<a href="https://github.com/productdecoded/productiveyou">productiveyou</a> · Monk Mode Activated</h3>
+      <h3>⚡ &nbsp;<a href="https://github.com/aritrade/productiveyou">productiveyou</a> · Monk Mode Activated</h3>
       <p>
         <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -121,7 +121,7 @@ My edge is the rare combination of **deep technical fluency** (VCIX-DCV, VCAP-DC
         A <strong>2-year monk-mode operating system</strong> — non-negotiables + habits + multi-modal journal + 2-year streak grid + Wrapped-style year-end recap. Forgiving streaks (no shame-spirals), installable PWA on every device, plus a companion Chrome extension that turns every new tab into a discipline checkpoint.
       </p>
       <p>
-        <a href="https://github.com/productdecoded/productiveyou"><img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/aritrade/productiveyou"><img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
         &nbsp;
         <a href="https://productiveyou.lovable.app"><img src="https://img.shields.io/badge/Live_app-Online-10B981?style=for-the-badge" /></a>
       </p>
@@ -284,7 +284,7 @@ I'm always up for a conversation with operators building **enterprise CS program
 | 🐦 **X / Twitter** | [@AritraThinks](https://x.com/AritraThinks) |
 | ✍️ **Medium** | [@decodedbyaritra](https://medium.com/@decodedbyaritra) |
 | ✉️ **Email** | [de.aritrade.aritra@gmail.com](mailto:de.aritrade.aritra@gmail.com) |
-| 💻 **GitHub** | [@productdecoded](https://github.com/productdecoded) |
+| 💻 **GitHub** | [@aritrade](https://github.com/aritrade) |
 
 ---
 
@@ -294,6 +294,6 @@ I'm always up for a conversation with operators building **enterprise CS program
 
 > **Outwork the doubt. Out-deliver the brief. Compound the trust.**
 
-<sub>This profile is generated and maintained from <a href="https://github.com/productdecoded/productdecoded">github.com/productdecoded/productdecoded</a>. The avatar is a regenerable monogram — swap <code>assets/avatar.png</code> with a real photo any time.</sub>
+<sub>This profile is generated and maintained from <a href="https://github.com/aritrade/aritrade">github.com/aritrade/aritrade</a>. The avatar is a regenerable monogram — swap <code>assets/avatar.png</code> with a real photo any time.</sub>
 
 </div>
