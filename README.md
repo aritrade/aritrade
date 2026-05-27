@@ -109,18 +109,21 @@ My edge is the rare combination of **deep technical fluency** (VCIX-DCV, VCAP-DC
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>🔒 &nbsp;productiveyou</h3>
+      <h3>⚡ &nbsp;<a href="https://github.com/productdecoded/productiveyou">productiveyou</a> · Monk Mode Activated</h3>
       <p>
-        <img src="https://img.shields.io/badge/Private_repo-1F2937?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Habits-10B981?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI_Reviews-F59E0B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Personal-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
       </p>
       <p>
-        A personal <strong>productivity intelligence tracker</strong> — habit, focus, and outcome telemetry with AI-assisted weekly reviews. Designed to make compounding visible. <em>Private repository — happy to walk through it on a call.</em>
+        A <strong>2-year monk-mode operating system</strong> — non-negotiables + habits + multi-modal journal + 2-year streak grid + Wrapped-style year-end recap. Forgiving streaks (no shame-spirals), installable PWA on every device, plus a companion Chrome extension that turns every new tab into a discipline checkpoint.
       </p>
       <p>
-        <a href="https://github.com/productdecoded"><img src="https://img.shields.io/badge/More_at_@productdecoded-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/productdecoded/productiveyou"><img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        &nbsp;
+        <a href="https://productiveyou.lovable.app"><img src="https://img.shields.io/badge/Live_app-Online-10B981?style=for-the-badge" /></a>
       </p>
     </td>
   </tr>
@@ -156,9 +159,46 @@ My edge is the rare combination of **deep technical fluency** (VCIX-DCV, VCAP-DC
 
 ## Writing
 
-I write at [**Medium · decodedbyaritra**](https://medium.com/@decodedbyaritra) on the intersection of **customer success**, **AI-native product**, and the **operator's playbook** for the agentic era.
+I write at [**Medium · decodedbyaritra**](https://medium.com/@decodedbyaritra) on the intersection of **customer success**, **AI-native product**, and the **operator's playbook** for the agentic era. A few pieces worth your time:
 
-[<img src="https://img.shields.io/badge/Read_on_Medium-decodedbyaritra-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />](https://medium.com/@decodedbyaritra)
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>📊 &nbsp;<a href="https://medium.com/@decodedbyaritra/reflecting-on-one-year-at-nutanix-a-journey-of-growth-learning-and-gratitude-cb092c89593b">Reflecting on One Year at Nutanix</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Feb_2025-71717A?style=flat-square" />
+        <img src="https://img.shields.io/badge/4_min_read-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/CS_Leadership-0A66C2?style=flat-square" />
+      </p>
+      <p>
+        A year-end retrospective on stepping into the <strong>Senior Technical Account Manager</strong> role at Nutanix — owning two of India's largest BFSI accounts, the shift from break-fix support to proactive technical strategy, mentoring an intern cohort, and the Bangkok Professional Services offsite that crystallised what good cross-team CS looks like.
+      </p>
+      <p>
+        <a href="https://medium.com/@decodedbyaritra/reflecting-on-one-year-at-nutanix-a-journey-of-growth-learning-and-gratitude-cb092c89593b"><img src="https://img.shields.io/badge/Read_article-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🤝 &nbsp;<a href="https://medium.com/@decodedbyaritra/my-first-quarterly-business-review-a-journey-of-connection-and-insight-aa9bac4433c6">My First Quarterly Business Review</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sep_2024-71717A?style=flat-square" />
+        <img src="https://img.shields.io/badge/4_min_read-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/QBR_Playbook-F59E0B?style=flat-square" />
+      </p>
+      <p>
+        A field report from a TAM's <strong>first in-person QBR with two enterprise BFSI customers</strong> — preparing the deck, navigating preconceived notions, pitching new product capabilities, and the lesson that the rapport in the room always outweighs the rapport on the slide.
+      </p>
+      <p>
+        <a href="https://medium.com/@decodedbyaritra/my-first-quarterly-business-review-a-journey-of-connection-and-insight-aa9bac4433c6"><img src="https://img.shields.io/badge/Read_article-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://medium.com/@decodedbyaritra"><img src="https://img.shields.io/badge/More_writing_on_Medium-decodedbyaritra-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
 
 ---
 
