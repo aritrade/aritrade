@@ -157,6 +157,78 @@ My edge is the rare combination of **deep technical fluency** (VCIX-DCV, VCAP-DC
 
 ---
 
+## Voices
+
+A growing wall of recommendations from **leaders, peers, and enterprise customers** I've shipped alongside over the past decade. The full set lives on LinkedIn — featured pulls will surface here as they accumulate.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/itsmearitrade/details/recommendations/">
+    <img src="https://img.shields.io/badge/Read_full_recommendations-on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Read recommendations on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/itsmearitrade/edit/forms/new-recommendation/?profileFormEntryPoint=PROFILE_SECTION">
+    <img src="https://img.shields.io/badge/Worked_with_me%3F-Write_one-10B981?style=for-the-badge&logo=linkedin&logoColor=white" alt="Write a recommendation" />
+  </a>
+</p>
+
+<!--
+  ─────────────────────────────────────────────────────────────────────────
+  TEMPLATE — paste new recommendations here. Drop a <tr>...</tr> per row
+  and the 2×2 grid renders automatically. Uncomment the <table> block
+  below and the centered CTA above gets promoted to a footer link.
+  ─────────────────────────────────────────────────────────────────────────
+
+<table border="0" cellpadding="14" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <blockquote>
+        <strong>"</strong>Paste the recommendation text here. Keep it to 2–4 sentences for grid balance.<strong>"</strong>
+      </blockquote>
+      <p>
+        — <strong>Author Name</strong> · Their Title @ Company · <em>Month YYYY</em><br/>
+        <a href="https://www.linkedin.com/in/their-handle/">linkedin.com/in/their-handle</a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <blockquote>
+        <strong>"</strong>Second recommendation text here.<strong>"</strong>
+      </blockquote>
+      <p>
+        — <strong>Author Name</strong> · Their Title @ Company · <em>Month YYYY</em><br/>
+        <a href="https://www.linkedin.com/in/their-handle/">linkedin.com/in/their-handle</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <blockquote>
+        <strong>"</strong>Third recommendation text.<strong>"</strong>
+      </blockquote>
+      <p>
+        — <strong>Author Name</strong> · Their Title @ Company · <em>Month YYYY</em>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <blockquote>
+        <strong>"</strong>Fourth recommendation text.<strong>"</strong>
+      </blockquote>
+      <p>
+        — <strong>Author Name</strong> · Their Title @ Company · <em>Month YYYY</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+  Optional: promote one to a centered hero quote above the grid using:
+
+<p align="center" width="100%">
+  <em>"Your strongest single-line pull-quote here."</em><br/>
+  <sub>— <strong>Author</strong> · Their Title @ Company</sub>
+</p>
+-->
+
+---
+
 ## Writing
 
 I write at [**Medium · decodedbyaritra**](https://medium.com/@decodedbyaritra) on the intersection of **customer success**, **AI-native product**, and the **operator's playbook** for the agentic era. A few pieces worth your time:
