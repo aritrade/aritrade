@@ -151,7 +151,7 @@ My edge is the rare combination of **deep technical fluency** (VCIX-DCV, VCAP-DC
 |---|---|---|
 | **VMware Certified Implementation Expert — Data Center Virtualization (VCIX-DCV)** | VMware (Broadcom) | 2023 |
 | **VMware Certified Advanced Professional — Data Center Virtualization Deploy (VCAP-DCV Deploy)** | VMware (Broadcom) | 2023 |
-| **Product Leadership Program** | Institute of Product Leadership | 2023 |
+| **[International Certificate in Product Management](https://credential.productleadership.com/credential/bf1190a0-c3e1-41ed-9b63-63caa4ed5809)** _(5-month, faculty-led)_ | Institute of Product Leadership | 2024 |
 | **The Fundamentals of Digital Marketing** | Google Digital Garage | — |
 
 **Top skills:** Prometheus · PromQL · Monitoring & Observability · Customer Success · Enterprise Onboarding · Technical Account Management · Product Strategy
